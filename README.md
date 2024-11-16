@@ -1,5 +1,9 @@
 # homeassistant-dashboards
 
+🧳 Welcome traveler! 
+🔥 Come in. Put your feet up by the fire.
+🍺 Pour a glass of beer, while we learn a few tricks in homeassistant.
+
 # Energy Monitoring
 
 Using the Custom Bubble Card we can create the below.
