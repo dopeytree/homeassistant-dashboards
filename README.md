@@ -8,7 +8,7 @@
 
 # Home Assistant
 
-<p>👑 A wise person once said &nbsp; 'My home is my kingdom' &nbsp;  &nbsp; or was it &nbsp;  <i>'I fart in your general direction!'</i> <link>https://www.youtube.com/watch?v=QSo0duY7-9s&t=4s</link></p>
+<p>👑 A wise person once said &nbsp; 'My home is my kingdom' &nbsp;  &nbsp; or was it &nbsp;  <i>'I fart in your general direction!'</i> (Monty Python) <link>https://www.youtube.com/watch?v=QSo0duY7-9s&t=4s</link></p>
 <p>🏡 Home Assistant - where the Holy Grail of energy monitoring meets smart home sovereignty. Control your kingdom's devices, automate your noble chores, and may your wattage be ever in your favor.
   
 # Energy Monitoring
