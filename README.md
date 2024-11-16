@@ -1,10 +1,17 @@
 # homeassistant-dashboards
 
 <p>🧳 Welcome traveler!</p>
+<p>🐈 I am Pablo your host.</p>
 <p>🔥 Come in. Put your feet up by the fire.</p>
 <p>🍺 Pour a glass of beer, while we learn a few tricks in homeassistant.</p>
-<p>🐈 I am Pablo your host.</p>
 
+<p></p>
+
+# Home Assistant
+
+<p>👑 A wise person once said 'My home is my kingdom' </p>
+<p>🏡 Home Assistant - where the Holy Grail of energy monitoring meets smart home sovereignty. Control your kingdom's devices, automate your noble chores, and may your wattage be ever in your favor.
+  
 # Energy Monitoring
 
 Using the Custom Bubble Card we can create the below.
