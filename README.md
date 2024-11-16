@@ -1,8 +1,9 @@
 # homeassistant-dashboards
 
-🧳 Welcome traveler! 
-🔥 Come in. Put your feet up by the fire.
-🍺 Pour a glass of beer, while we learn a few tricks in homeassistant.
+<p>🧳 Welcome traveler!</p>
+<p>🔥 Come in. Put your feet up by the fire.</p>
+<p>🍺 Pour a glass of beer, while we learn a few tricks in homeassistant.</p>
+<p>🐈 I am Pablo your host.</p>
 
 # Energy Monitoring
 
