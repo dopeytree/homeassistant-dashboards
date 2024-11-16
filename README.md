@@ -1,11 +1,10 @@
 # homeassistant-dashboards
 
-<p>🧳 Welcome traveler!</p>
-<p>🐈 I am Pablo your host.</p>
-<p>🔥 Come in. Put your feet up by the fire.</p>
-<p>🍺 Pour a glass of beer, while we learn a few tricks in homeassistant.</p>
+1. 🧳 Welcome traveler!
+2. 🐈 I am Pablo your host.
+3. 🔥 Come in. Put your feet up by the fire.
+4. 🍺 Pour a glass of beer, while we learn a few tricks in homeassistant.
 
-<p></p>
 
 # Home Assistant
 
